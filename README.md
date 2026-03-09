@@ -61,7 +61,7 @@ Tras el Análisis Exploratorio de Datos (EDA), se identificaron los siguientes p
 * **Métodos de Pago:** La automatización retiene clientes. El pago automático (especialmente tarjeta de crédito) reduce drásticamente el churn. En contraste, los pagos manuales (como el Electronic Check, con un 43.8% de riesgo) exigen una acción consciente mes a mes, facilitando la cancelación.
 * **Servicio de Internet:** Sorprendentemente, los clientes del servicio premium "Fiber Optic" presentan la tasa de churn más alta (40.6%). Esto sugiere una posible desconexión entre el precio pagado, las expectativas generadas y la experiencia real del servicio.
 * **Factores Demográficos:** El estado civil influye en la estabilidad. Los clientes sin pareja tienen una tasa de abandono del 32.0%, frente a un 19.0% en aquellos con pareja.
-![Gráfico de Churn por Tipo de Contrato](graficos/matriz-correlacion.png)
+![Gráfico de Churn por Tipo de Contrato](graficos/matriz_correlacion.png)
 ---
 
 ## 🚀 Próximos Pasos Recomendados
