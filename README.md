@@ -45,3 +45,9 @@ Analizar los factores que influyen en la evasión de clientes (churn) de Telecom
 ---
 
 ## 📑 Estructura del Proyecto
+📑 Estructura del Proyecto
+
+* **`notebooks/`**: Contiene el cuaderno principal de Jupyter/Colab con todo el proceso de Extracción, Transformación, Carga (ETL) y el Análisis Exploratorio de Datos (EDA).
+* **`graficos/`**: Almacena las visualizaciones clave generadas durante el análisis para un acceso rápido.
+* **`docs/`**: Documentación complementaria, incluyendo la versión estática en PDF del análisis completo.
+* **`README.md`**: Resumen, objetivos y conclusiones principales del proyecto.
